@@ -29,7 +29,7 @@ section {
 }
 
 .orange {
-  color: #f06449 !important;
+  color: #6030b1 !important;
 }
 p {
   line-height: 1.5;
@@ -191,7 +191,7 @@ nav,
   display: flex;
 }
 .social__link {
-  background-color: #f06449;
+  background-color: #6030b1;
   color: white;
   padding: 6px;
   width: 32px;
@@ -387,8 +387,8 @@ nav {
 }
 
 .form__submit {
-  background-color: #f06449;
-  border: 2px solid #f06449;
+  background-color: #6030b1;
+  border: 2px solid #6030b1;
   color: white;
   font-weight: 700;
   width: 100%;
@@ -442,8 +442,8 @@ nav {
 }
 
 .modal__overlay--success {
-  background-color: #4bb543;
-  font-size: 40px;
+  background-color: #6dd5ed;
+  font-size: 25px;
   font-weight: 700;
   text-align: center;
   padding: 28px;

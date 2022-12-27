@@ -2,6 +2,7 @@ let isModalOpen = false;
 let contrastToggle = false;
 const scaleFactor = 1 / 20;
 
+
 function moveBackground(event) {
   const shapes = document.querySelectorAll(".shape");
   const x = event.clientX * scaleFactor;
@@ -32,8 +33,8 @@ function contact(event) {
   loading.classList += " modal__overlay--visible";
   emailjs
     .sendForm(
-      "service_vuiji1v",
-      "template_1gumrwr",
+      "service_cglh3xa",
+      "template_iwb17oi",
       event.target,
       "zN3MvDTN3ZJgnrzdP"
     )
